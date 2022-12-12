@@ -56,6 +56,4 @@
 *.lxo filter=lfs diff=lfs merge=lfs -text
 
 #artifacts
-*.br
-*.data.br
-*.wasm.br
+*.br filter=lfs diff=lfs merge=lfs -text
