@@ -1,2 +1,4 @@
 [lfs]
 	url = https://frolicking-malabi-e2baf7.netlify.app/.netlify/large-media
+[remote "origin"]
+lfsurl = https://frolicking-malabi-e2baf7.netlify.app/.netlify/large-media
